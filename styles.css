@@ -123,7 +123,7 @@ section a {
 .change_content:after {
   content: '';
   animation: changetext 120s infinite linear;
-  color: #00b894;
+  color: red;
   font-size: 4rem;
   text-decoration: underline;
 }
